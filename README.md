@@ -4,11 +4,11 @@ This decentralised crowdfunding platform leverages blockchain technology to ensu
 
 
 
-### thirdweb-next-starter
+## thirdweb-next-starter
 
 Starter template to build an onchain react native app with [thirdweb](https://thirdweb.com/) and [next](https://nextjs.org/).
 
-### Resources
+## Resources
 
 - [Documentation](https://portal.thirdweb.com/typescript/v5)
 - [YouTube](https://www.youtube.com/c/thirdweb)
